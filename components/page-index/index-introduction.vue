@@ -26,7 +26,7 @@
 						<figure>
 							<div class="aspect-w-10 aspect-h-8 lg:aspect-none">
 								<img class="rounded-md object-cover object-center shadow-lg"
-									src="imgs/murilo-boareto-delefrate.jpg" alt="Murilo Boareto Delefrate" />
+									src="/imgs/murilo-boareto-delefrate.jpg" alt="Murilo Boareto Delefrate" />
 							</div>
 						</figure>
 					</div>
