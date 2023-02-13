@@ -29,8 +29,14 @@
 				</p>
 			</div>
 			<div class="mt-12">
-				<form name="contact" @submit.prevent="handleSubmit" data-netlify="true"
-					class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
+				<form name="contact" @submit.prevent="handleSubmit" netlify data-netlify="true"
+					netlify-honeypot="bot-field" class="grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8">
+					<input type="hidden" name="form-name" value="contact" />
+					<p class="hidden">
+						<label>
+							Don't fill this out if you're human: <input name="bot-field" />
+						</label>
+					</p>
 					<div class="sm:col-span-2">
 						<label for="name" class="block text-sm font-medium text-gray-700">Name</label>
 						<div class="mt-1">
