@@ -1,0 +1,15 @@
+{
+	"eslint.packageManager": "yarn",
+	"eslint.timeBudget.onFixes": {
+		"warn": 3000,
+		"error": 6000
+	},
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"eslint.enable": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": false,
+		"source.fixAll.eslint": true
+	},
+	"editor.defaultFormatter": "Vue.volar"
+}
