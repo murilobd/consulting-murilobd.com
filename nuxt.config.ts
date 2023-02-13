@@ -12,4 +12,12 @@ export default defineNuxtConfig({
 			autoprefixer: {},
 		},
 	},
+	app: {
+		head: {
+			title: "Murilo Boareto Delefrate - JavaScript Consulting Services",
+			meta: [
+				{name: "description", property: "og:description", content: "As an experienced and skilled JavaScript developer, I offer a wide range of services to help you take your web development projects to the next level"}
+			]
+		}
+	}
 });

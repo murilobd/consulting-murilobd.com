@@ -52,11 +52,6 @@
 								class="block w-full rounded-md border-gray-300 py-3 px-4 shadow-sm focus:border-indigo-500 focus:ring-indigo-500" />
 						</div>
 					</div>
-					<p class="hidden">
-						<label>
-							Don't fill this out if you're human: <input name="bot-field" />
-						</label>
-					</p>
 					<div class="sm:col-span-2">
 						<button type="submit"
 							class="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
