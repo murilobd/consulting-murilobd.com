@@ -1,5 +1,5 @@
 <template>
-	<div class="bg-white pb-24 sm:pb-32">
+	<div class="bg-white pb-24 sm:pb-32" id="service-offerings">
 		<div class="mx-auto max-w-7xl px-6 lg:px-8">
 			<div class="mx-auto max-w-2xl lg:text-center">
 				<!-- <h2 class="text-lg font-semibold leading-8 tracking-tight text-indigo-600">{{ title }}</h2> -->

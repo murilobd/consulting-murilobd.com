@@ -2,7 +2,7 @@
 	<section id="testimonials" aria-label="What our customers are saying" class="bg-slate-50 py-20 sm:py-32">
 		<div class="mx-auto max-w-2xl text-center">
 			<h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-				What professionals says about me
+				What do professionals say about my work?
 			</h2>
 		</div>
 		<ul role="list"
